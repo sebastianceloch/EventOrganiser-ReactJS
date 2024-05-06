@@ -1,12 +1,15 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # EventOrganiser-ReactJS
->>>>>>> ccf548f4758034e5c8ab5665599314c26885ca60
+# Fullstack App ReactJS and ExpressJS using React TanStack Query <br/>
+I've used useQuery and useMutation to fetch data which are TanStack Query functions. <br/>
+# Main Page <br/>
+![Events1](https://github.com/sebastianceloch/EventOrganiser-ReactJS/assets/73536373/4ba8331d-63d2-4662-a801-5326821ca6c4)
+# Create Event <br/>
+![Events2](https://github.com/sebastianceloch/EventOrganiser-ReactJS/assets/73536373/3158cfd9-09f8-464f-9339-3259ad017732)
+# Event Page <br/>
+![Events3](https://github.com/sebastianceloch/EventOrganiser-ReactJS/assets/73536373/9e6d476a-f227-4310-ba90-546d9e7c5e78)
+
+
+
+
+
+
